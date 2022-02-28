@@ -1,4 +1,4 @@
-# Cafe Menu
+# Printaro
 ```
 Cafe Menu App, with a frontend built in React & Redux and a backend built in Django API.
 ```
