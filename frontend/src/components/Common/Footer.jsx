@@ -31,11 +31,11 @@ export default function Footer({ price }) {
             <div class="refresh">
                 <img src={logo2} alt="logo" />
                 <p>
-                    Premium Quality soft drinks, hot drinks, soda & energy drinks at the best and most affordable price.
+                    Premium quality T-shirts with cool designs at the best and most affordable price.
                 </p>
                 <p>we have a new offer every day for 365 days</p>
                 <span>Contact</span>
-                <p>E-maildrink@refresh.com | Hotline: +1 131 138 138</p>
+                <p>E-mailshirt@cool.com | Hotline: +1 131 138 138</p>
             </div>
             <div className="copyright">
                 <p>DESIGN BY COOLTEES - © 2022. ALL RIGHTS RESERVED.</p>
