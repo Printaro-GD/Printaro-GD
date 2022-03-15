@@ -32,7 +32,7 @@ const SignUp = () => {
     return (
         <>
             <Home />
-            <section className="gradient"></section>
+            <section className="gradient">
             <section class="popup">
                 <div class="popup-inner">
                     <div class="popup-preview">
@@ -95,6 +95,7 @@ const SignUp = () => {
                         </div>
                     </div>
                 </div>
+            </section>
             </section>
         </>
     );

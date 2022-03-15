@@ -28,7 +28,7 @@ const CartItem = ({ cart, quantity, cartId }) => {
                 <img src={'https://res.cloudinary.com/www-techis-io/' + cart.image} />
             </div>
             <h3>{cart.name}</h3>
-            <h6>1 Ltr</h6>
+            <h6>{quantity}</h6>
             <p>${cart.price}</p>
             <button class="number">
                 <span id="minus" onClick={clickMinusCart}>
