@@ -1,6 +1,6 @@
-# Printaro
+# Cool Tees
 ```
-Cafe Menu App, with a frontend built in React & Redux and a backend built in Django API.
+Cool Tees App, with a frontend built in React & Redux and a backend built in Django API.
 ```
 Check out [FRONTEND LIVE DEMO](https://frontend-salem.herokuapp.com/) here!!
 Check out [API LIVE DEMO](https://backend-mike.herokuapp.com/) here!!
